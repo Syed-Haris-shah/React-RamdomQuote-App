@@ -1,0 +1,25 @@
+body {
+background: #858B7C;
+background: linear-gradient(135deg, #858B7C, #0E4005);
+}
+
+#root {
+  width: 100vw;
+  margin: 0 auto;
+  padding: 10rem;
+  text-align: center;
+}
+
+.main-div {
+background: rgba(85, 86, 83, 1.0);
+background: linear-gradient(315deg, rgba(85, 86, 83, 1.0), rgba(223, 248, 218, 1.0));
+max-width: 80vw;
+padding: 1rem;
+border-radius: 10px;
+}
+
+.btn {
+  background-color: #87be7d;
+  cursor: pointer;
+  font-weight: bold;
+}
